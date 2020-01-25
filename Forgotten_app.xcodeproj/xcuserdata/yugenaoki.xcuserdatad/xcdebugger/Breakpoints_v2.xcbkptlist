@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3F0AD0BD-6145-4923-B5B6-7CCE7892C4B6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A150F98C-3EFA-4182-8BE0-C46F2007939E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Forgotten_app/controllers/FareTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "getFares(year:month:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EEFD2A38-7680-4B33-B755-9FEAD891E592"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Forgotten_app/controllers/FareTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "256"
+            endingLineNumber = "256"
+            landmarkName = "pickerView(_:titleForRow:forComponent:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "71EA1E15-A84E-4BD4-985E-876F89A1A32F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Forgotten_app/FareMasterTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "71EA1E15-A84E-4BD4-985E-876F89A1A32F - d19eca3a7f38facb"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Forgotten_app.FareMasterTableViewCell.__allocating_init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; Forgotten_app.FareMasterTableViewCell"
+                  moduleName = "Forgotten_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yugenaoki/dev/Forgotten_app/Forgotten_app/FareMasterTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "71EA1E15-A84E-4BD4-985E-876F89A1A32F - b15eaf38e53a7e35"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Forgotten_app.FareMasterTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; Forgotten_app.FareMasterTableViewCell"
+                  moduleName = "Forgotten_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yugenaoki/dev/Forgotten_app/Forgotten_app/FareMasterTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "182">
+               </Location>
+               <Location
+                  uuid = "71EA1E15-A84E-4BD4-985E-876F89A1A32F - e6055d2abf8587df"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Forgotten_app.FareMasterTableViewCell.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Forgotten_app.FareMasterTableViewCell&gt;"
+                  moduleName = "Forgotten_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yugenaoki/dev/Forgotten_app/Forgotten_app/FareMasterTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "71EA1E15-A84E-4BD4-985E-876F89A1A32F - 2ec9f641e4c24740"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Forgotten_app.FareMasterTableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Forgotten_app.FareMasterTableViewCell&gt;"
+                  moduleName = "Forgotten_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yugenaoki/dev/Forgotten_app/Forgotten_app/FareMasterTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "119">
+               </Location>
+               <Location
+                  uuid = "71EA1E15-A84E-4BD4-985E-876F89A1A32F - b7a338761ab22d84"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Forgotten_app.FareMasterTableViewCell.__deallocating_deinit"
+                  moduleName = "Forgotten_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yugenaoki/dev/Forgotten_app/Forgotten_app/FareMasterTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B616F5F0-09D1-46D9-8E34-073F698E2FC1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Forgotten_app/controllers/SubmitViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "SubmitViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B616F5F0-09D1-46D9-8E34-073F698E2FC1 - 56de565c7e60e6a0"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Forgotten_app.SubmitViewController.yearsMonthsPicker.getter : Swift.Optional&lt;__C.UIPickerView&gt;"
+                  moduleName = "Forgotten_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yugenaoki/dev/Forgotten_app/Forgotten_app/controllers/SubmitViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "B616F5F0-09D1-46D9-8E34-073F698E2FC1 - 92e43b0e3916c6d4"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Forgotten_app.SubmitViewController.yearsMonthsPicker.setter : Swift.Optional&lt;__C.UIPickerView&gt;"
+                  moduleName = "Forgotten_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yugenaoki/dev/Forgotten_app/Forgotten_app/controllers/SubmitViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "B616F5F0-09D1-46D9-8E34-073F698E2FC1 - fb211a1afafa7ea5"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Forgotten_app.SubmitViewController.yearsMonthsPicker.modify : Swift.Optional&lt;__C.UIPickerView&gt;"
+                  moduleName = "Forgotten_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yugenaoki/dev/Forgotten_app/Forgotten_app/controllers/SubmitViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "B616F5F0-09D1-46D9-8E34-073F698E2FC1 - ff33c0ecc8b55102"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Forgotten_app.SubmitViewController.yearsMonthsPicker.modify : Swift.Optional&lt;__C.UIPickerView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Forgotten_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yugenaoki/dev/Forgotten_app/Forgotten_app/controllers/SubmitViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "B616F5F0-09D1-46D9-8E34-073F698E2FC1 - 39630dbcaa569940"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Forgotten_app.SubmitViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Forgotten_app.SubmitViewController"
+                  moduleName = "Forgotten_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yugenaoki/dev/Forgotten_app/Forgotten_app/controllers/SubmitViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "146">
+               </Location>
+               <Location
+                  uuid = "B616F5F0-09D1-46D9-8E34-073F698E2FC1 - d3d693d60abb301d"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Forgotten_app.SubmitViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Forgotten_app.SubmitViewController&gt;"
+                  moduleName = "Forgotten_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yugenaoki/dev/Forgotten_app/Forgotten_app/controllers/SubmitViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
